@@ -25,11 +25,11 @@ roscpreを起動させる(&をつけないと起動させながらできない)<
 roscore &
 ```
 
-scriptsにあるblackjack.pyとdiscrimination.pyを順番に起動させる。
-'''
+scriptsにあるblackjack.pyとdiscrimination.pyを順番に起動させる。<br>
+```
 rosrun blackjack blackjack.py
 rosrun blackjack discrimination.py(Ctrl+Cを押さないと止まらないので注意)
-'''
+```
 
 
 実行結果<br>
