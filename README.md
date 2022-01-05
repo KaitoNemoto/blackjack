@@ -11,7 +11,7 @@ https://youtu.be/GpWQL0f6CZ0
 ・ROS
 
 # 使い方
-以下を入力してインストール
+以下を入力してインストール<br>
 '''
 cd ~/catkin_ws/src
 git clone 
@@ -19,8 +19,9 @@ cd ~/catkin_ws
 catkin_make
 '''
 
-roscpreを起動させる(&をつけないと起動させながらできない)
+roscpreを起動させる(&をつけないと起動させながらできない)<br>
 '''
 roscore &
 '''
+
 
