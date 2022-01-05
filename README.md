@@ -14,7 +14,7 @@ https://youtu.be/GpWQL0f6CZ0
 以下を入力してインストール<br>
 ```
 cd ~/catkin_ws/src
-git clone 
+git clone git@github.com:KaitoNemoto/blackjack.git
 cd ~/catkin_ws
 catkin_make
 ```
@@ -24,4 +24,5 @@ roscpreを起動させる(&をつけないと起動させながらできない)<
 roscore &
 ```
 
+scriptsにあるblackjack.pyとdiscrimination.pyを順番に起動させる。
 
