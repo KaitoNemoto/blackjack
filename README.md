@@ -27,11 +27,13 @@ roscore &
 scriptsにあるblackjack.pyとdiscrimination.pyを順番に起動させる。
 '''
 rosrun blackjack blackjack.py
-rosrun blackjack discrimination.py
+rosrun blackjack discrimination.py(Ctrl+Cを押さないと止まらないので注意)
 '''
+
 
 実行結果<br>
 ![スクリーンショット 2022-01-06 021050](https://user-images.githubusercontent.com/93694888/148259486-1b6cf8d9-1dda-4b54-b0ab-eccc7ce34451.png)
 ![スクリーンショット 2022-01-06 021107](https://user-images.githubusercontent.com/93694888/148259523-c5aac722-cfd5-4418-84c1-b756d4f82f4e.png)
 
 # ライセンス
+BSD 3-Clause "New" or "Revised" License
