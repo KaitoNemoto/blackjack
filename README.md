@@ -25,4 +25,7 @@ roscore &
 ```
 
 scriptsにあるblackjack.pyとdiscrimination.pyを順番に起動させる。
-
+```
+rosrun blackjack blackjack.py
+rosrun blackjack discrimination.py
+```
