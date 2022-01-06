@@ -28,7 +28,7 @@ roscore &
 scriptsにあるblackjack.pyとdiscrimination.pyを順番に起動させる。<br>
 ```
 rosrun blackjack blackjack.py
-rosrun blackjack discrimination.py(Ctrl+Cを押さないと止まらないので注意)
+rosrun blackjack discrimination.py 'Ctrl+Cを押さないと止まらないので注意'
 ```
 
 
