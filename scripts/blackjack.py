@@ -26,6 +26,5 @@ print('数は', x, 'と', y, 'と', z)
 print('合わせて', n)
 
 while not rospy.is_shutdown():
-    n += 1
     pub.publish(n)
     rate.sleep()
