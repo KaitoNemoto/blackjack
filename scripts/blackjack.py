@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-BDS 3-Clause License
+BSD 3-Clause License
 
 Copyring (c) 2021 Ryuichi Ueda + Kaito Nemoto.
 All right reserved.
