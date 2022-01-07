@@ -11,6 +11,10 @@ https://youtu.be/GpWQL0f6CZ0
 ・ubuntu-20.04.3 LTS<br>
 ・ROS
 
+# 遊び方
+blackjackをやったことがない人がやってみたいときに遊んでみてください。
+絶対に出てくる数字が3個なので、それが21を超えるか超えないかを予想して遊んでみてください。
+
 # 使い方
 以下を入力してインストール<br>
 ```
@@ -26,7 +30,7 @@ roscore &
 ```
 
 scriptsにあるblackjack.pyとdiscrimination.pyを順番に起動させる。<br>
-rosrun blackjack discrimination.py のときCtrl+Cを押さないと止まらないので注意
+・rosrun blackjack discrimination.py のときCtrl+Cを押さないと止まらないので注意
 ```
 rosrun blackjack blackjack.py
 rosrun blackjack discrimination.py 
