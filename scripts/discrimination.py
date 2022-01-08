@@ -3,7 +3,7 @@
 """
 BSD 3-Clause License
 
-Copyring (c) 2021 Ryuichi Ueda + Kaito Nemoto.
+Copyring (c) 2021 Kaito Nemoto.
 All right reserved.
 """
 
